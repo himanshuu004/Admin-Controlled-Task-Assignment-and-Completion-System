@@ -3,7 +3,7 @@
 🚀 **A robust task management system built with React.js and local storage, allowing admins to create, assign, and manage tasks, while employees can track and complete their assigned tasks efficiently.**
 
 ## 🌐 **Live Demo**  
-🔗 [Deployed Link Here]
+🔗 https://super-palmier-545d3a.netlify.app/
 
 ## 🔧 **Features**  
 - **Admin Panel**: Create tasks and assign them to employees.  
@@ -42,14 +42,10 @@ npm install
 npm start
 ```
 
-## 📸 **Screenshots**  
-(Add relevant screenshots of your project UI)  
 
 ## 🤝 **Contributing**  
 Feel free to fork this repository and submit a pull request if you have improvements!  
 
-## 📜 **License**  
-This project is licensed under the MIT License.
 
 
 
