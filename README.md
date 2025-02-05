@@ -5,6 +5,15 @@
 ## 🌐 **Live Demo**  
 🔗 https://super-palmier-545d3a.netlify.app/
 
+Credentials-
+- Admin login
+ - admin@me.com
+-123
+
+- Employee login
+-e@e.com
+-123
+
 ## 🔧 **Features**  
 - **Admin Panel**: Create tasks and assign them to employees.  
 - **Employee Dashboard**: View new, accepted, and completed tasks.  
